@@ -1,0 +1,8 @@
+# Default file volume size.
+size=417792
+
+# Default location for creating the file volumes.
+path=/mnt/data/apps
+
+# Default file-system for the file volumes.
+fstyp=ext4
